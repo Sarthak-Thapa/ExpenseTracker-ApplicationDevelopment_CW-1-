@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UZgXx2Z327MJA5WKKYXZgAKMvhg6tmcH003khyyWSYQ=",
+  "Hash": "ZckkCWezVSrAKRq1/KLH8rPccyAPUSxBWouqYLyLtZ8=",
   "Source": "ExpenseTracker",
   "BasePath": "/",
   "Mode": "Root",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Informatics\\3. 1st Semester\\Application Development Coursework\\ExpenseTracker\\ExpenseTracker\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\ExpenseTracker.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Informatics\\3. 1st Semester\\Application Development Coursework\\ExpenseTracker\\ExpenseTracker\\wwwroot\\app-tailwind.css",
+      "SourceId": "ExpenseTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Informatics\\3. 1st Semester\\Application Development Coursework\\ExpenseTracker\\ExpenseTracker\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "app-tailwind.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app-tailwind.css"
     },
     {
       "Identity": "D:\\Informatics\\3. 1st Semester\\Application Development Coursework\\ExpenseTracker\\ExpenseTracker\\wwwroot\\css\\app.css",
@@ -148,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Informatics\\3. 1st Semester\\Application Development Coursework\\ExpenseTracker\\ExpenseTracker\\wwwroot\\tailwind-input.css",
+      "SourceId": "ExpenseTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Informatics\\3. 1st Semester\\Application Development Coursework\\ExpenseTracker\\ExpenseTracker\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "tailwind-input.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\tailwind-input.css"
     }
   ]
 }

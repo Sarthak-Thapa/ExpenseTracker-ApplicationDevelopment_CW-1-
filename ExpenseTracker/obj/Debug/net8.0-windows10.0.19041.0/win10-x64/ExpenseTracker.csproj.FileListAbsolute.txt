@@ -205,3 +205,7 @@ D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker
 D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\package-lock.json
+D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\package.json
+D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tailwind.extension.json
+D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ExpenseTracker.sourcelink.json

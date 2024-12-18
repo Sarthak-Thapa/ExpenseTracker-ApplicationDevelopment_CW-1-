@@ -59,9 +59,14 @@ splashSplashScreen.scale-200.png
 splashSplashScreen.scale-400.png
 wwwroot\ExpenseTracker.styles.css
 wwwroot\ExpenseTracker.bundle.scp.css
+package.json
+package-lock.json
 AboutAssets.txt
+tailwind.extension.json
+wwwroot\app-tailwind.css
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
 wwwroot\favicon.png
 wwwroot\index.html
+wwwroot\tailwind-input.css

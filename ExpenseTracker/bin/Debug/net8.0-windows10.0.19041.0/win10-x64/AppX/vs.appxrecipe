@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-12-18T06:19:53.795</Modified>
+      <Modified>2024-12-18T07:06:02.329</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-12-18T06:19:53.620</Modified>
+      <Modified>2024-12-18T07:04:10.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ExpenseTracker.runtimeconfig.json">
       <PackagePath>ExpenseTracker.runtimeconfig.json</PackagePath>
@@ -44,15 +44,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ExpenseTracker.dll">
       <PackagePath>ExpenseTracker.dll</PackagePath>
-      <Modified>2024-12-18T06:19:52.638</Modified>
+      <Modified>2024-12-18T07:06:02.117</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ExpenseTracker.exe</PackagePath>
-      <Modified>2024-12-18T06:19:52.651</Modified>
+      <Modified>2024-12-18T07:06:02.121</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-12-18T06:19:29.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\wwwroot\app-tailwind.css">
+      <PackagePath>wwwroot\app-tailwind.css</PackagePath>
+      <Modified>2024-12-18T07:06:00.893</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
@@ -72,7 +76,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
-      <Modified>2024-12-18T06:19:29.307</Modified>
+      <Modified>2024-12-18T07:02:41.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\wwwroot\tailwind-input.css">
+      <PackagePath>wwwroot\tailwind-input.css</PackagePath>
+      <Modified>2024-12-18T06:59:49.355</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
@@ -301,6 +309,18 @@
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2024-12-18T06:19:47.307</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\package-lock.json">
+      <PackagePath>package-lock.json</PackagePath>
+      <Modified>2024-12-18T06:54:22.923</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\package.json">
+      <PackagePath>package.json</PackagePath>
+      <Modified>2024-12-18T06:54:22.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\tailwind.extension.json">
+      <PackagePath>tailwind.extension.json</PackagePath>
+      <Modified>2024-12-18T07:00:13.960</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ExpenseTracker.deps.json">
       <PackagePath>ExpenseTracker.deps.json</PackagePath>

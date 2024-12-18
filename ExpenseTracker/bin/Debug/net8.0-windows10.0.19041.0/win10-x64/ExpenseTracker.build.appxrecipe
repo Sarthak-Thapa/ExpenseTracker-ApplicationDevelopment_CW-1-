@@ -40,6 +40,9 @@
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\wwwroot\app-tailwind.css">
+      <PackagePath>wwwroot\app-tailwind.css</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
     </AppxPackagedFile>
@@ -54,6 +57,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\wwwroot\tailwind-input.css">
+      <PackagePath>wwwroot\tailwind-input.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
@@ -225,6 +231,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\package-lock.json">
+      <PackagePath>package-lock.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\package.json">
+      <PackagePath>package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\tailwind.extension.json">
+      <PackagePath>tailwind.extension.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Informatics\3. 1st Semester\Application Development Coursework\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ExpenseTracker.deps.json">
       <PackagePath>ExpenseTracker.deps.json</PackagePath>

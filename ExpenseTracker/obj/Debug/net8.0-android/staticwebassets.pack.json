@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ExpenseTracker.styles.css"
     },
     {
+      "Id": "D:\\Informatics\\3. 1st Semester\\Application Development Coursework\\ExpenseTracker\\ExpenseTracker\\wwwroot\\app-tailwind.css",
+      "PackagePath": "staticwebassets\\app-tailwind.css"
+    },
+    {
       "Id": "D:\\Informatics\\3. 1st Semester\\Application Development Coursework\\ExpenseTracker\\ExpenseTracker\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
@@ -23,6 +27,10 @@
     {
       "Id": "D:\\Informatics\\3. 1st Semester\\Application Development Coursework\\ExpenseTracker\\ExpenseTracker\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Informatics\\3. 1st Semester\\Application Development Coursework\\ExpenseTracker\\ExpenseTracker\\wwwroot\\tailwind-input.css",
+      "PackagePath": "staticwebassets\\tailwind-input.css"
     },
     {
       "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.ExpenseTracker.Microsoft.AspNetCore.StaticWebAssets.props",
